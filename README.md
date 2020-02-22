@@ -1,5 +1,5 @@
 # pitch-perfect-ios
-## Voice modulation app (repo status: Archived)
+## Voice modulation app (repo status: archived)
 
 This was an iOS app that allowed users to record their voices and later, play back the voice recording - with different voice modulations and playback speeds e.g. a slow Darth Vader voice and a fast, high-pitched 'chipmunk voice'.
 
